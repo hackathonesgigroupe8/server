@@ -15,6 +15,7 @@ const api = express();
 
 const config = require('./config');
 const ozae = require('./ozae');
+const country = require('./country/index');
 
 
 const bodyParser = require('body-parser');
@@ -44,12 +45,19 @@ api.get('/', function (req, res) {
     res.sendFile(path.join(__dirname+'/index.html'));
 });
 
-api.post('/articles/', function (req, res) {
-        ozae.getArticles(function(result){
+api.post('/country/', function (req, res) {
+    country.get(function(result){
             res.send(circularJSON.stringify(result));
         });
 
 });
+
+api.post('/sets/', function (req, res) {
+    ozae.getArticles(function(result){
+        res.send(circularJSON.stringify(result));
+    });
+});
+
 
 api.listen(config.port, function () {
     console.log('--- ✅  Smapis API started on port '+ config.port);
