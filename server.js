@@ -8,9 +8,14 @@
 
 const express = require('express');
 const cors = require('cors');
+const path    = require("path");
+const circularJSON = require('circular-json');
+
 const api = express();
-const port = 8060;
-var path    = require("path");
+
+const config = require('./config');
+const ozae = require('./ozae');
+
 
 const bodyParser = require('body-parser');
 api.use(bodyParser.json()); // support json encoded bodies
@@ -39,12 +44,15 @@ api.get('/', function (req, res) {
     res.sendFile(path.join(__dirname+'/index.html'));
 });
 
+api.post('/articles/', function (req, res) {
+        ozae.getArticles(function(result){
+            res.send(circularJSON.stringify(result));
+        });
 
-api.post('/', function (req, res) {
-    res.send('Alive in post');
 });
 
-api.listen(port, function () {
-    console.log('--- ✅  Server groupe 8 API started on port '+ port);
+api.listen(config.port, function () {
+    console.log('--- ✅  Smapis API started on port '+ config.port);
+
 });
 
