@@ -1,4 +1,3 @@
-
 /*
 
 ----  API Server Groupe 8  ----
@@ -8,7 +7,7 @@
 
 const express = require('express');
 const cors = require('cors');
-const path    = require("path");
+const path = require("path");
 const circularJSON = require('circular-json');
 
 const api = express();
@@ -17,13 +16,14 @@ const config = require('./config');
 const core = require('./core/index');
 const country = require('./country/index');
 
-
+const axios = require('axios');
 const bodyParser = require('body-parser');
+
 api.use(bodyParser.json()); // support json encoded bodies
-api.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
+api.use(bodyParser.urlencoded({extended: true})); // support encoded bodies
 
 api.options('*', cors());
-api.use(function(req, res, next) {
+api.use(function (req, res, next) {
     // Website you wish to allow to connect
     res.setHeader("Access-Control-Allow-Origin", "*");
 
@@ -42,39 +42,41 @@ api.use(function(req, res, next) {
 });
 
 api.get('/', function (req, res) {
-    res.sendFile(path.join(__dirname+'/index.html'));
+    res.sendFile(path.join(__dirname + '/index.html'));
 });
 
 api.post('/country/', function (req, res) {
-    country.get(function(result){
+    country.get(function (result) {
         res.send(circularJSON.stringify(result));
     });
 });
 
 api.post('/datasets/', function (req, res) {
-    country.get(function(result){
+    country.get(function (result) {
         res.send(circularJSON.stringify(result));
     });
 });
 
 api.post('/stats/', function (req, res) {
     // Get country code
-    console.log(req.body);
-    if(req.body.code !== undefined && req.body.dataset !== undefined){
+    if (req.body.code !== undefined && req.body.dataset !== undefined) {
         core.getDataset(req.body.dataset, function (resp) {
-            core.initRequest(req.body.code, resp, function(result){
-                res.send(result)
-            } );
-        } )
+            core.initRequest(req.body.code, resp, function (result) {
+                res.send(result);
+            });
+        })
 
     }
-    else{
+    else {
         res.send('Invalid Country code or dataset id.');
     }
 });
 
+api.post('/tests/', function (req, response) {
+});
+
 
 api.listen(config.port, function () {
-    console.log('--- ✅  Smapis API started on port '+ config.port);
+    console.log('\n  🔥 | STARTED | EAS API started on port ' + config.port + '\n \n');
 });
 
