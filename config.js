@@ -9,4 +9,5 @@ module.exports = {
             apiKey: "9ea16bdd81fd42f2aaaa6c640f1ababd"
         },
         port: 8060,
+        datasets: ['eea_ip_2018']
 };

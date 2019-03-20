@@ -14,7 +14,7 @@ const circularJSON = require('circular-json');
 const api = express();
 
 const config = require('./config');
-const ozae = require('./ozae');
+const core = require('./core/index');
 const country = require('./country/index');
 
 
@@ -47,20 +47,34 @@ api.get('/', function (req, res) {
 
 api.post('/country/', function (req, res) {
     country.get(function(result){
-            res.send(circularJSON.stringify(result));
-        });
-
-});
-
-api.post('/sets/', function (req, res) {
-    ozae.getArticles(function(result){
         res.send(circularJSON.stringify(result));
     });
+});
+
+api.post('/datasets/', function (req, res) {
+    country.get(function(result){
+        res.send(circularJSON.stringify(result));
+    });
+});
+
+api.post('/stats/', function (req, res) {
+    // Get country code
+    console.log(req.body);
+    if(req.body.code !== undefined && req.body.dataset !== undefined){
+        core.getDataset(req.body.dataset, function (resp) {
+            core.initRequest(req.body.code, resp, function(result){
+                res.send(result)
+            } );
+        } )
+
+    }
+    else{
+        res.send('Invalid Country code or dataset id.');
+    }
 });
 
 
 api.listen(config.port, function () {
     console.log('--- ✅  Smapis API started on port '+ config.port);
-
 });
 
