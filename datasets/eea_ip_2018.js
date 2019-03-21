@@ -6,7 +6,7 @@ module.exports = {
             {
                 name: "France",
                 code: "FR",
-                topics: {1: "pollution de l'air", 2: "pollution de l'eau", 3: "dechets", 4: "dechets dangereux"},
+                topics: {1: "Pollution de l'air", 2: "Pollution de l'eau", 3: "Dechets", 4: "Dechets dangereux"},
                 datas: [
                     {
                         "id": 1,
@@ -34,9 +34,10 @@ module.exports = {
                 ],
             },
             {
-                "name": "Germany",
-                "code": "DE",
-                "datas": [
+                name: "Germany",
+                code: "DE",
+                topics: {1: "Luftverschmutzung", 2: "Wasserverschmutzung", 3: "Abfall", 4: "gefährlicher Abfall"},
+                datas: [
                     {
                         "id": 1,
                         "sources": [{"Cadminium": 0.8}, {"Carbon dioxyde": 0.37}, {"Lead": 0.4}, {"Mercury": 0.82}, {"Nitrogen Oxyde": 0.2}, {"Particulate matter": 0.25}, {"Sulfure oxides": 0.77}]
@@ -63,9 +64,10 @@ module.exports = {
                 ],
             },
             {
-                "name": "Italy",
-                "code": "IT",
-                "datas": [
+                name: "Italy",
+                code: "IT",
+                topics: {1: "Inquinamento atmosferico", 2: "Inquinamento delle acque", 3: "Rifiuti", 4: "Rifiuti pericolosi"},
+                datas: [
                     {
                         "id": 1,
                         "sources": [{"Cadminium": 0.8}, {"Carbon dioxyde": 0.37}, {"Lead": 0.4}, {"Mercury": 0.82}, {"Nitrogen Oxyde": 0.2}, {"Particulate matter": 0.25}, {"Sulfure oxides": 0.77}]
@@ -92,9 +94,10 @@ module.exports = {
                 ],
             },
             {
-                "name": "Great britain",
-                "code": "GB",
-                "datas": [
+                name: "Great britain",
+                code: "GB",
+                topics: {1: "Air pollution", 2: "Water pollution", 3: "Waste", 4: "Dangerous waste"},
+                datas: [
                     {
                         "id": 1,
                         "sources": [{"Cadminium": 0.8}, {"Carbon dioxyde": 0.37}, {"Lead": 0.4}, {"Mercury": 0.82}, {"Nitrogen Oxyde": 0.2}, {"Particulate matter": 0.25}, {"Sulfure oxides": 0.77}]
@@ -121,9 +124,10 @@ module.exports = {
                 ],
             },
             {
-                "name": "Spain",
-                "code": "ES",
-                "datas": [
+                name: "Spain",
+                code: "ES",
+                topics: {1: "Contaminacion del aire", 2: "Contaminación del agua", 3: "Residuos", 4: "Residuos peligrosos"},
+                datas: [
                     {
                         "id": 1,
                         "sources": [{"Cadminium": 0.8}, {"Carbon dioxyde": 0.37}, {"Lead": 0.4}, {"Mercury": 0.82}, {"Nitrogen Oxyde": 0.2}, {"Particulate matter": 0.25}, {"Sulfure oxides": 0.77}]
@@ -150,9 +154,10 @@ module.exports = {
                 ],
             },
             {
-                "name": "Portugal",
-                "code": "PT",
-                "datas": [
+                name: "Portugal",
+                code: "PT",
+                topics: {1: "Poluição do ar", 2: "Poluição da água", 3: "Desperdício", 4: "Resíduos perigosos"},
+                datas: [
                     {
                         "id": 1,
                         "sources": [{"Cadminium": 0.8}, {"Carbon dioxyde": 0.37}, {"Lead": 0.4}, {"Mercury": 0.82}, {"Nitrogen Oxyde": 0.2}, {"Particulate matter": 0.25}, {"Sulfure oxides": 0.77}]
