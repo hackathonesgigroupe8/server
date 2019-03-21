@@ -77,6 +77,6 @@ api.post('/tests/', function (req, response) {
 
 
 api.listen(config.port, function () {
-    console.log('\n  🔥 | STARTED | EAS API started on port ' + config.port + '\n \n');
+    console.log('\n  🔥 | STARTED | EcoAware API started on port ' + config.port + '\n \n');
 });
 
