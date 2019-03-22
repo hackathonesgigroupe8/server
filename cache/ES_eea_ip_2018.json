@@ -1,0 +1,244 @@
+{
+  "id": "ES_eea_ip_2018",
+  "notation": 0.9844444444444447,
+  "nbArticles": 18,
+  "specializedRepresentation": 94.44444444444444,
+  "generalistRepresentation": 5.555555555555555,
+  "topicsInMedia": [
+    [
+      "Gestión de residuos",
+      2
+    ],
+    [
+      "Residuos radiactivos",
+      2
+    ],
+    [
+      "Greenpeace",
+      2
+    ],
+    [
+      "Cala d'Or",
+      2
+    ],
+    [
+      "Bariloche",
+      2
+    ],
+    [
+      "Chaco",
+      1
+    ],
+    [
+      "Salud",
+      1
+    ],
+    [
+      "San Luis Potosí",
+      1
+    ],
+    [
+      "Globovisión",
+      1
+    ],
+    [
+      "Brasil",
+      1
+    ],
+    [
+      "Residuo peligroso",
+      1
+    ],
+    [
+      "Corrimiento de tierra",
+      1
+    ],
+    [
+      "Proyecto de ley",
+      1
+    ],
+    [
+      "Placenta",
+      1
+    ],
+    [
+      "Diario de Yucatán",
+      1
+    ],
+    [
+      "Islas Baleares",
+      1
+    ],
+    [
+      "La Voz del Interior",
+      1
+    ],
+    [
+      "Asma",
+      1
+    ],
+    [
+      "Parto prematuro",
+      1
+    ],
+    [
+      "Radio Habana Cuba",
+      1
+    ],
+    [
+      "Pekín",
+      1
+    ]
+  ],
+  "topicsRepresentation": [
+    "Contaminacion del aire",
+    "Contaminación del agua",
+    "Residuos",
+    "Residuos peligrosos"
+  ],
+  "negativeQuotedEnterprises": [],
+  "positiveQuotedEnterprises": [],
+  "articles": [
+    {
+      "categ": "Contaminacion del aire",
+      "list": [
+        {
+          "name": "Pekín emite primera alerta roja por contaminación del aire",
+          "url": "http://www.elcolombiano.com/pekin-emite-primera-alerta-roja-por-contaminacion-del-aire-MM3248934",
+          "id": 34325211,
+          "score": 119606
+        },
+        {
+          "name": "Radio Habana Cuba | Alertan sobre 6,6 millones de muertes anuales para el 2050 por contaminación del aire",
+          "url": "http://www.radiohc.cu/noticias/ciencias/69346-alertan-sobre-66-millones-de-muertes-anuales-para-el-2050-por-contaminacion-del-aire",
+          "id": 32050883,
+          "score": 312192
+        },
+        {
+          "name": "latino 4u  La Contaminacion Del Aire Esta Vinculada A Un Mayor Riesgo De Partos Prematuros Para Las Madres Con Asma - latino 4u",
+          "url": "http://latino4u.net/noticiashispanicprwire/la-contaminacion-del-aire-esta-vinculada-a-un-mayor-riesgo-de-partos-prematuros-para-las-madres-con-asma/",
+          "id": 36788388,
+          "score": 0
+        },
+        {
+          "name": "Beijing se declara en alerta roja por la contaminación del aire | La Voz del Interior",
+          "url": "http://www.lavoz.com.ar/ambiente/beijing-se-declara-en-alerta-roja-por-la-contaminacion-del-aire",
+          "id": 34634006,
+          "score": 2533248
+        }
+      ]
+    },
+    {
+      "categ": "Residuos",
+      "list": [
+        {
+          "name": "Bariloche 2000 - Será obligatoria la separación de residuos en origen",
+          "url": "http://bariloche2000.com/noticias/leer/sera-obligatoria-la-separacion-de-residuos-en-origen/95354",
+          "id": 33807618,
+          "score": 3386400
+        },
+        {
+          "name": "El Govern recoge 1.500 kilos de residuos del litoral balear al día | Cala d'Or Noticias",
+          "url": "http://caladornoticias.com/el-govern-recoge-1-500-kilos-de-residuos-del-litoral-balear-al-dia/",
+          "id": 31009940,
+          "score": 0
+        },
+        {
+          "name": "Greenpeace alerta sobre riesgos de residuos nucleares en España - El Diario de Yucatán",
+          "url": "http://yucatan.com.mx/internacional/el-vaticano/greenpeace-alerta-sobre-riesgos-de-residuos-nucleares-en-espana",
+          "id": 31996254,
+          "score": 0
+        },
+        {
+          "name": "Presentan proyecto de obligatoriedad de separación de residuos en origen - Diario el Cordillerano",
+          "url": "http://www.elcordillerano.com.ar/~elcordil/index.php/actualidad/item/32417-presentan-proyecto-de-obligatoriedad-de-separacion-de-residuos-en-origen",
+          "id": 33853331,
+          "score": 0
+        },
+        {
+          "name": "Residuos fecales en agua envasada  | ELESPECTADOR.COM",
+          "url": "http://www.elespectador.com/noticias/elmundo/residuos-fecales-agua-envasada-enfermaron-4000-personas-articulo-628963",
+          "id": 38382377,
+          "score": 10919040
+        },
+        {
+          "name": "Filtros solares y bactericidas dejan residuos en la placenta",
+          "url": "http://noticieros.televisa.com/mundo/1603/filtros-solares-bactericidas-dejan-residuos-placenta/",
+          "id": 36745539,
+          "score": 206724
+        },
+        {
+          "name": "Presentan proyecto para obligar a separar residuos en origen | Bariloche opina",
+          "url": "http://www.barilocheopina.com/noticias/2015/11/19/22081-presentan-proyecto-para-obligar-a-separar-residuos-en-origen",
+          "id": 33805831,
+          "score": 974000
+        },
+        {
+          "name": "Siete proyectos aragoneses de gestión de residuos recibirán una ayuda estatal de 600.000 euros",
+          "url": "http://www.entornointeligente.com/articulo/6984506/Siete-proyectos-aragoneses-de-gestion-de-residuos-recibiran-una-ayuda-estatal-de-600000-euros",
+          "id": 32044275,
+          "score": 0
+        },
+        {
+          "name": "Presentan proyecto de obligatoriedad de separación de residuos en origen - Diario el Cordillerano",
+          "url": "http://www.elcordillerano.com.ar/index.php/actualidad/item/32417-presentan-proyecto-de-obligatoriedad-de-separacion-de-residuos-en-origen",
+          "id": 33812406,
+          "score": 877200
+        },
+        {
+          "name": "El PP advierte al Consell que aún quedan por importar unas 40.000 toneladas de residuos antes de que acabe 2015 | Cala d'Or Noticias",
+          "url": "http://caladornoticias.com/el-pp-advierte-al-consell-que-aun-quedan-por-importar-unas-40-000-toneladas-de-residuos-antes-de-que-acabe-2015/",
+          "id": 29552791,
+          "score": 0
+        },
+        {
+          "name": "Siete proyectos aragoneses de gestión de residuos recibirán una ayuda estatal de 600.000 euros",
+          "url": "http://www.entornointeligente.com/articulo/6984506/Siete-proyectos-aragoneses-de-gestion-de-residuos-recibiran-una-ayuda-estatal-de-600000-euros-17092015",
+          "id": 32058582,
+          "score": 0
+        },
+        {
+          "name": "17 muertos deja deslave de residuos tóxicos en Brasil | Globovisión",
+          "url": "http://globovision.com/17-muertos-deja-deslave-de-residuos-toxicos-en-brasil/",
+          "id": 33406493,
+          "score": 2035677
+        },
+        {
+          "name": "Greenpeace alerta sobre riesgos de residuos nucleares en España | Pulso Diario de San Luis",
+          "url": "http://pulsoslp.com.mx/2015/09/15/greenpeace-alerta-sobre-riesgos-de-residuos-nucleares-en-espana/",
+          "id": 31991277,
+          "score": 34050
+        },
+        {
+          "name": "Salud avanza en la instalación de una planta para el tratamiento de residuos patológicos | Diario Chaco",
+          "url": "http://www.diariochaco.com/noticia/salud-avanza-en-la-instalacion-de-una-planta-para-el-tratamiento-de-residuos-patologicos",
+          "id": 38150241,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "categ": "Residuos peligrosos",
+      "list": []
+    }
+  ],
+  "negArticles": [
+    [
+      "Globovisión",
+      1
+    ],
+    [
+      "Brasil",
+      1
+    ],
+    [
+      "Residuo peligroso",
+      1
+    ],
+    [
+      "Corrimiento de tierra",
+      1
+    ]
+  ],
+  "negTopics": []
+}

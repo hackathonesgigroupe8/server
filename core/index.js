@@ -18,8 +18,8 @@ module.exports = {
             else {
                 console.log('--- ℹ️ | Data not found, request for generation');
                 let sources;
-                let filterLibrary = ["Libération", "Le Havre", "France 3","En Garde!", "L'Appartement", "Elle", "En passant", "France", "Le Matin", "Le Soir", "Le Nouvel Observateur", "Le Monde", "Equipe de France", "Île de France", "Union Européenne", "Euro", "Liban", "France", "Location", "Moyen-Orient", "État", "Le Parisien", "Challenges","La Tribune", "Les Echos", "Le Figaro", "L'Humanité", "France Soir", "France Info", "Metro", "20 minutes", "L'Equipe", "Midi-Olympique", "Le Dauphiné libéré", "Le Progrès", "Ouest-France", "Le Télégramme de Brest", "Paris-Normandie", "Nice-matin", "Var-matin", "Corse-Matin", "L'Yonne républicaine", "La Voix du Nord", "La Provence", "Le Républicain Lorrain", "L'Union de Reims", "La Liberté de l'Est L'Alsace Le Pays", "La Montagne", "Le Berry Républicain", "Le Populaire", "Le Journal du Centre", "Courrier International", "Elle", "L'Européen", "L'Express", "Marianne", "Le Monde Diplomatique", "Le Nouvel Observateur ", "Le Point", "Le Monde de l'Education", "Sciences et Avenir", "L'Etudiant", "Phosphore", "Télérama", "Le journal on line de SaÔne-et-Loire", "Le Bien public", "SaÔne-et-Loire", "Les Clefs de l'actualité", "Junior", "Dernières Nouvelles d'Alsace", "L'indépendant", " L'indépendant de Perpignan", "L' Equipe ", "Midi-Olympique", "l'Opinion", "La Dépêche du Midi" , "Paris" , "France" , "Ile-de-France"];
-                let generalists = ["news.sfr.fr","www.lepoint.fr","www.francebleu.fr","www.bfmtv.com", "www.bienpublic.com","www.lci.fr", "www.linfo.re", "www.ledauphine.com", "www.francetvinfo.fr", "www.sudouest.fr", "www.boursorama.com", "www.infonormandie.com", "www.arcinfo.ch", "www.lemonde.fr", "www.franceinfo.fr","www.franceinfo.fr", "actus.clicanoo.re", "www.liberation.fr", "www.lejdd.fr", "www.huffingtonpost.fr" ];
+                let filterLibrary = ["Libération", "France 24", "LCI", "Die Zeit", "Spiegel online", "Stuttgart", "China","London","Tgcom24","Italia","rai news", "Allemagne", "Restauration rapide", "Europe", "Union européenne", "Risque", "", "Le Havre", "France 3","En Garde!", "L'Appartement", "Elle", "En passant", "France", "Le Matin", "Le Soir", "Le Nouvel Observateur", "Le Monde", "Equipe de France", "Île de France", "Union Européenne", "Euro", "Liban", "France", "Location", "Moyen-Orient", "État", "Le Parisien", "Challenges","La Tribune", "Les Echos", "Le Figaro", "L'Humanité", "France Soir", "France Info", "Metro", "20 minutes", "L'Equipe", "Midi-Olympique", "Le Dauphiné libéré", "Le Progrès", "Ouest-France", "Le Télégramme de Brest", "Paris-Normandie", "Nice-matin", "Var-matin", "Corse-Matin", "L'Yonne républicaine", "La Voix du Nord", "La Provence", "Le Républicain Lorrain", "L'Union de Reims", "La Liberté de l'Est L'Alsace Le Pays", "La Montagne", "Le Berry Républicain", "Le Populaire", "Le Journal du Centre", "Courrier International", "Elle", "L'Européen", "L'Express", "Marianne", "Le Monde Diplomatique", "Le Nouvel Observateur ", "Le Point", "Le Monde de l'Education", "Sciences et Avenir", "L'Etudiant", "Phosphore", "Télérama", "Le journal on line de SaÔne-et-Loire", "Le Bien public", "SaÔne-et-Loire", "Les Clefs de l'actualité", "Junior", "Dernières Nouvelles d'Alsace", "L'indépendant", " L'indépendant de Perpignan", "L' Equipe ", "Midi-Olympique", "l'Opinion", "La Dépêche du Midi" , "Paris" , "France" , "Ile-de-France"];
+                let generalists = ["news.sfr.fr", "www.repubblica.it","www.rainews.it","www.newitaliane.it","www.zeit.de","www.focus.de", "www.spiegle.de", "www.bbc.uk", "www.radiohc.cu", "www.lepoint.fr","www.francebleu.fr","www.bfmtv.com", "www.bienpublic.com","www.lci.fr", "www.linfo.re", "www.ledauphine.com", "www.francetvinfo.fr", "www.sudouest.fr", "www.boursorama.com", "www.infonormandie.com", "www.arcinfo.ch", "www.lemonde.fr", "www.franceinfo.fr","www.franceinfo.fr", "actus.clicanoo.re", "www.liberation.fr", "www.lejdd.fr", "www.huffingtonpost.fr" ];
                 let stats = {
                     id: code + '_' + datasetObj.id,
                     notation: 0,
@@ -209,7 +209,6 @@ module.exports = {
 
 
                     // Recuperations des tendances negatives sur cette catégorie
-
                     console.log('--- ⏳ | Ask for negatives trends');
                     let gettedNetatives = stats.negArticles.flat();
                     await asyncForEach(gettedNetatives, async (articleneg) =>  {
@@ -251,7 +250,7 @@ module.exports = {
                     console.log('--- ⏳ | Prepare and store report');
                     stats.specializedRepresentation = aggregatedSpecialists*100/stats.nbArticles;
                     stats.generalistRepresentation = aggregatedGeneralists*100/stats.nbArticles;
-                    stats.notation = aggregatedSpecialists + aggregatedGeneralists * 6 / stats.nbArticles;
+                    stats.notation = -2 + ((3 * (aggregatedSpecialists/100)) + (3 * (aggregatedGeneralists/100)) + ( 2 *((stats.nbArticles + stats.negArticles.length )/stats.nbArticles)));
                     stats.negTopics = sortProperties(stats.negTopics, true).reverse();
                     stats.negTopics = stats.negTopics.filter((el => !filterLibrary.includes(el[1])));
                     stats.topicsInMedia = topicsFiltered;

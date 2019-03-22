@@ -1,0 +1,1865 @@
+{
+  "id": "DE_eea_ip_2018",
+  "notation": 2.6077966101694914,
+  "nbArticles": 118,
+  "specializedRepresentation": 76.27118644067797,
+  "generalistRepresentation": 23.728813559322035,
+  "topicsInMedia": [
+    [
+      "Abfall",
+      14
+    ],
+    [
+      "Vertigo",
+      1
+    ],
+    [
+      "Süddeutsche Zeitung",
+      8
+    ],
+    [
+      "Alzheimer-Krankheit",
+      2
+    ],
+    [
+      "Focus",
+      7
+    ],
+    [
+      "Feinstaub",
+      7
+    ],
+    [
+      "Smog",
+      4
+    ],
+    [
+      "Bayerischer Rundfunk",
+      1
+    ],
+    [
+      "Europäische Kommission",
+      4
+    ],
+    [
+      "Wissenschaft",
+      3
+    ],
+    [
+      "Gesundheit",
+      3
+    ],
+    [
+      "Diabetes mellitus",
+      3
+    ],
+    [
+      "Dieselkraftstoff",
+      3
+    ],
+    [
+      "Sachsen",
+      2
+    ],
+    [
+      "Störche",
+      2
+    ],
+    [
+      "Deponie",
+      2
+    ],
+    [
+      "Augsburger Allgemeine",
+      2
+    ],
+    [
+      "Südwestrundfunk",
+      2
+    ],
+    [
+      "Pollen",
+      2
+    ],
+    [
+      "Traubenkräuter",
+      2
+    ],
+    [
+      "Deutsche Umwelthilfe",
+      2
+    ],
+    [
+      "Schlaganfall",
+      2
+    ],
+    [
+      "Europäische Union",
+      2
+    ],
+    [
+      "Öffentlicher Personennahverkehr",
+      2
+    ],
+    [
+      "Luftqualität",
+      2
+    ],
+    [
+      "Hamburg",
+      2
+    ],
+    [
+      "Bündnis 90/Die Grünen",
+      1
+    ],
+    [
+      "Sächsische Zeitung",
+      1
+    ],
+    [
+      "Berliner Woche",
+      1
+    ],
+    [
+      "Berlin-Köpenick",
+      1
+    ],
+    [
+      "Berliner Stadtreinigungsbetriebe",
+      1
+    ],
+    [
+      "Berlin",
+      1
+    ],
+    [
+      "Mitteldeutscher Rundfunk",
+      1
+    ],
+    [
+      "Neues Deutschland",
+      1
+    ],
+    [
+      "Seekühe",
+      1
+    ],
+    [
+      "Demenz",
+      1
+    ],
+    [
+      "Blutdruck",
+      1
+    ],
+    [
+      "Funke Mediengruppe",
+      1
+    ],
+    [
+      "Mülltonne",
+      1
+    ],
+    [
+      "UNICEF",
+      1
+    ],
+    [
+      "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+      1
+    ],
+    [
+      "Krebs",
+      1
+    ],
+    [
+      "Hamburger Abendblatt",
+      1
+    ],
+    [
+      "Nürnberger Nachrichten",
+      1
+    ],
+    [
+      "SWR Aktuell",
+      1
+    ],
+    [
+      "Software",
+      1
+    ],
+    [
+      "Tagesschau.de",
+      1
+    ],
+    [
+      "Fahrverbot",
+      1
+    ]
+  ],
+  "topicsRepresentation": [
+    "Luftverschmutzung",
+    "Wasserverschmutzung",
+    "Abfall",
+    "gefährlicher Abfall"
+  ],
+  "negativeQuotedEnterprises": [],
+  "positiveQuotedEnterprises": [],
+  "articles": [
+    {
+      "categ": "Luftverschmutzung",
+      "list": [
+        {
+          "name": "Bundesweit erste Diesel-Fahrverbote in Hamburg ab 31. Mai",
+          "url": "http://www.sueddeutsche.de/wirtschaft/luftverschmutzung-bundesweit-erste-diesel-fahrverbote-in-hamburg-ab-mai-1.3989689",
+          "id": 123797811,
+          "score": 89511695
+        },
+        {
+          "name": "ICCT-Studie: Jährlich 13.000 Tote durch Luftverschmutzung in Deutschland | WEB.DE",
+          "url": "https://web.de/magazine/politik/icct-studie-jaehrlich-13000-tote-luftverschmutzung-deutschland-33583866",
+          "id": 144248741,
+          "score": 800610255
+        },
+        {
+          "name": "Luftqualität: Grenzwertige Verwirrungen | ZEIT ONLINE",
+          "url": "https://www.zeit.de/wissen/gesundheit/2019-01/luftqualitaet-luftverschmutzung-grenzwerte-stickoxide-feinstaub",
+          "id": 142078062,
+          "score": 72140775
+        },
+        {
+          "name": "Feinstaub: Immer mehr Tote durch Luftverschmutzung",
+          "url": "http://www.faz.net/aktuell/wissen/klima/feinstaub-immer-mehr-tote-durch-luftverschmutzung-13806381.html",
+          "id": 32027391,
+          "score": 52929270
+        },
+        {
+          "name": "Luftverschmutzung: Drei Millionen Menschen sterben jährlich an Feinstaub - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/wissenschaft/mensch/luftverschmutzung-drei-millionen-menschen-sterben-jaehrlich-an-feinstaub-a-1053241.html",
+          "id": 32039471,
+          "score": 86063300
+        },
+        {
+          "name": "Feinstaub: Viel schlechtere Luft atmet sonst keiner | ZEIT ONLINE",
+          "url": "https://www.zeit.de/2019/10/feinstaub-diesel-icct-gesundheitsgefahr-luftverschmutzung-stickoxid",
+          "id": 144265119,
+          "score": 156972186
+        },
+        {
+          "name": "Fahrverbote: Pläne gegen Dieselfahrverbote kommen voran | ZEIT ONLINE",
+          "url": "https://www.zeit.de/mobilitaet/2019-02/fahrverbote-diesel-gesetzesentwurf-eu-kommission-stickoxide-luftverschmutzung",
+          "id": 143449561,
+          "score": 18199055
+        },
+        {
+          "name": "Luftqualität: EU-Umweltkommissar verteidigt Schadstoffgrenzwerte | ZEIT ONLINE",
+          "url": "https://www.zeit.de/wissen/gesundheit/2019-01/luftqualitaet-luftverschmutzung-schadstoff-grenzwerte-feinstaub-karmenu-vella",
+          "id": 141949536,
+          "score": 18082044
+        },
+        {
+          "name": "Luftverschmutzung: Die EU-Kommission verliert die Geduld | ZEIT ONLINE",
+          "url": "http://www.zeit.de/mobilitaet/2018-01/luftverschmutzung-eu-kommission-abgase-barbara-hendricks",
+          "id": 110893250,
+          "score": 12673975
+        },
+        {
+          "name": "Luftverschmutzung verursacht jährlich Millionen Fälle Typ-II-Diabetes",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-verursacht-jaehrlich-millionen-f%C3%A4lle-typ-ii-diabetes-20180701415193",
+          "id": 131461078,
+          "score": 1819712
+        },
+        {
+          "name": "Luftverschmutzung: Lungenärzte stellen Feinstaub- und Stickoxidgrenzwerte infrage | ZEIT ONLINE",
+          "url": "https://www.zeit.de/wissen/gesundheit/2019-01/luftverschmutzung-feinstaub-stickoxid-grenzwerte-staedte-ideologie",
+          "id": 141922529,
+          "score": 200795880
+        },
+        {
+          "name": "Umwelt-Studie: Luftverschmutzung durch Kohlekraftwerke - Wissen - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/wissen/luftverschmutzung-toedliche-kohle-glocke-ueber-europa-1.3063507",
+          "id": 48386503,
+          "score": 44221689
+        },
+        {
+          "name": "Hamburg setzt als erste Großstadt Dieselfahrverbote durch",
+          "url": "http://www.handelsblatt.com/unternehmen/industrie/luftverschmutzung-hamburg-setzt-als-erste-grossstadt-dieselfahrverbote-durch/22571884.html",
+          "id": 122497952,
+          "score": 43387248
+        },
+        {
+          "name": "7 Millionen Tote pro Jahr durch Luftverschmutzung  -\r\n\tKind & Familie -\r\n\tBild.de",
+          "url": "https://www.bild.de/ratgeber/kind-familie/kind-und-familie/7-millionen-tote-pro-jahr-durch-luftverschmutzung-58111922.bild.html",
+          "id": 137672914,
+          "score": 3433745
+        },
+        {
+          "name": "Luftverschmutzung durch Diesel-Abgase in Städten gesunken",
+          "url": "http://www.handelsblatt.com/politik/deutschland/fahrverbote-weniger-luftverschmutzung-durch-diesel-abgase-in-staedten/20912890.html",
+          "id": 111135305,
+          "score": 1947000
+        },
+        {
+          "name": "Luftverschmutzung durch Autos: Ab 2019 soll es in Stuttgart Diesel-Fahrverbote geben - Politik - Tagesspiegel",
+          "url": "https://www.tagesspiegel.de/politik/luftverschmutzung-durch-autos-ab-2019-soll-es-in-stuttgart-diesel-fahrverbote-geben/22790020.html",
+          "id": 132052538,
+          "score": 4900488
+        },
+        {
+          "name": "Studie: 13.000 Deutsche offenbar vorzeitig wegen Verkehrsabgasen gestorben | ZEIT ONLINE",
+          "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2019-02/studie-luftverschmutzung-todesfaelle-abgase-verkehr",
+          "id": 144246919,
+          "score": 156661384
+        },
+        {
+          "name": "Luftverschmutzung: EU-Kommission bestellt Barbara Hendricks ein",
+          "url": "http://www.rp-online.de/politik/eu/luftverschmutzung-eu-kommission-bestellt-barbara-hendricks-ein-aid-1.7327311",
+          "id": 109483929,
+          "score": 180142
+        },
+        {
+          "name": "Luftverschmutzung verursacht jährlich Millionen neue Diabetes Typ II Erkrankungen",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-fuehrt-jaehrlich-zu-millionen-neuen-diabetes-typ-ii-erkrankungen-20180701415193",
+          "id": 131316857,
+          "score": 2608050
+        },
+        {
+          "name": "+++ Leichtathletik-WM in Peking +++: Luftverschmutzung? Fan-Problematik? \"In Peking wurde alles gelöst\" - Leichtathletik - FOCUS Online - Nachrichten",
+          "url": "http://www.focus.de/sport/mehrsport/leichtathletik-wm-in-peking-luftverschmutzung-fan-problematik-in-peking-wurde-alles-geloest_id_4901235.html",
+          "id": 31387250,
+          "score": 1685880
+        },
+        {
+          "name": "Das Ende der \"Aussitztaktik\"?",
+          "url": "https://www.tagesschau.de/inland/luftverschmutzung-klage-reaktionen-101.html",
+          "id": 122782282,
+          "score": 9581990
+        },
+        {
+          "name": "Luftverschmutzung: Bund erwägt kostenlosen Nahverkehr | ZEIT ONLINE",
+          "url": "http://www.zeit.de/mobilitaet/2018-02/luftverschmutzung-kostenloser-nahverkehr-bundesergierung",
+          "id": 112585087,
+          "score": 350136360
+        },
+        {
+          "name": "Maßnahmen gegen Luftverschmutzung: Ist die Idee vom kostenlosen Nahverkehr realistisch? - Politik - Tagesspiegel",
+          "url": "http://www.tagesspiegel.de/politik/massnahmen-gegen-luftverschmutzung-ist-die-idee-vom-kostenlosen-nahverkehr-realistisch/20963466.html",
+          "id": 112715083,
+          "score": 2396703
+        },
+        {
+          "name": "Luftverschmutzung: So tödlich ist Feinstaub | ZEIT ONLINE",
+          "url": "http://www.zeit.de/wissen/gesundheit/2015-09/luftverschmutzung-feinstaub-tote-weltweit",
+          "id": 32025023,
+          "score": 7100836
+        },
+        {
+          "name": "Diesel-Gipfel: Milliarden für bessere Luft | ZEIT ONLINE",
+          "url": "http://www.zeit.de/wirtschaft/2017-11/diesel-gipfel-luftverschmutzung-staedte-fahrverbote",
+          "id": 103990194,
+          "score": 440856
+        },
+        {
+          "name": "Luftverschmutzung - Nachbars Dreck - Wissen - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/wissen/luftverschmutzung-nachbars-dreck-1.3063939",
+          "id": 48475011,
+          "score": 504952
+        },
+        {
+          "name": "Luftverschmutzung – eine unterschätzte Todesursache - MEDIZIN ASPEKTE",
+          "url": "https://medizin-aspekte.de/101533-luftverschmutzung-eine-unterschaetzte-todesursache/",
+          "id": 131030022,
+          "score": 68220
+        },
+        {
+          "name": "Luftverschmutzung: Kommunen kritisieren Vorschlag zu kostenlosem ÖPNV | ZEIT ONLINE",
+          "url": "http://www.zeit.de/wirtschaft/2018-02/luftverschmutzung-kommunen-kostenloser-nahverkehr-oepnv-kritik",
+          "id": 112657518,
+          "score": 10886886
+        },
+        {
+          "name": "Polen und die Luftverschmutzung: Schwarze Zukunft - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/politik/ausland/polen-und-die-luftverschmutzung-schwarze-zukunft-a-1133484.html",
+          "id": 72587759,
+          "score": 36281480
+        },
+        {
+          "name": "Schmutzige Luft fordert mehr Todesopfer als Rauchen - Gesundheit - Süddeutsche.de",
+          "url": "https://www.sueddeutsche.de/gesundheit/luftverschmutzung-schadstoffe-todesfaelle-1.4364271",
+          "id": 145065462,
+          "score": 125331504
+        },
+        {
+          "name": "Luftverschmutzung verursacht jährlich Millionen neue Diabeteserkrankungen",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-fuehrt-jaehrlich-zu-millionen-neuen-diabeteserkrankungen-20180701415193",
+          "id": 131236702,
+          "score": 0
+        },
+        {
+          "name": "Durch Luftverschmutzung und Feinstaub sterben jährlich drei Millionen Menschen - Gesundheitsnews | STERN.de",
+          "url": "http://www.stern.de/gesundheit/gesundheitsnews/durch-luftverschmutzung-und-feinstaub-sterben-jaehrlich-drei-millionen-menschen-6455180.html",
+          "id": 32041621,
+          "score": 243188
+        },
+        {
+          "name": "Luftverschmutzung ist größte Gefahr für die Gesundheit - EEA-Report - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/gesundheit/diagnose/luftverschmutzung-ist-groesste-gefahr-fuer-die-gesundheit-eea-report-a-1235602.html",
+          "id": 137657575,
+          "score": 39207300
+        },
+        {
+          "name": "Zu hohe Luftverschmutzung: EU-Verfahren gegen Deutschland",
+          "url": "http://www.faz.net/aktuell/wirtschaft/wirtschaftspolitik/zu-hohe-luftverschmutzung-eu-verfahren-gegen-deutschland-14879560.html",
+          "id": 73328959,
+          "score": 852000
+        },
+        {
+          "name": "Luftverschmutzung verursacht jährlich Millionen Typ-II-Diabetes-Fälle",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-verursacht-jaehrlich-millionen-typ-ii-diabetes-faelle-20180701415193",
+          "id": 131392376,
+          "score": 167907
+        },
+        {
+          "name": "Luftverschmutzung erhöht Schlaganfall-Risiko - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/gesundheit/diagnose/luftverschmutzung-erhoeht-schlaganfall-risiko-a-1096748.html",
+          "id": 44644525,
+          "score": 1620000
+        },
+        {
+          "name": "Luftverschmutzung führt jährlich zu Millionen von Diabeteserkrankungen",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-fuehrt-jaehrlich-zu-millionen-von-diabeteserkrankungen-20180701415193",
+          "id": 131155652,
+          "score": 50157
+        },
+        {
+          "name": "Luftverschmutzung: Feinstaub tötet 3,3 Millionen Menschen",
+          "url": "http://www.tagesspiegel.de/wissen/luftverschmutzung-feinstaub-toetet-3-3-millionen-menschen/12329460.html",
+          "id": 32055786,
+          "score": 592296
+        },
+        {
+          "name": "Schockierende Studie zeigt: Jedes Jahr sterben mehr als drei Millionen Menschen durch Luftverschmutzung - Mensch - FOCUS Online - Nachrichten",
+          "url": "http://www.focus.de/wissen/mensch/schockierende-studie-jedes-jahr-sterben-ueber-drei-millionen-menschen-durch-luftverschmutzung_id_4952211.html",
+          "id": 32026110,
+          "score": 1668890
+        },
+        {
+          "name": "Dieselmotor: \"Es gibt keinen Grund für Hardware-Nachrüstungen\" | ZEIT ONLINE",
+          "url": "http://www.zeit.de/mobilitaet/2018-03/dieselmotor-luftverschmutzung-diesel-fahrverbot-abgas-e-motor-hardware",
+          "id": 115566655,
+          "score": 174044325
+        },
+        {
+          "name": "Weltweit 4,5 Millionen vorzeitige Todesfälle durch Luftverschmutzung | Max-Planck-Gesellschaft",
+          "url": "https://www.mpg.de/12116326/luftverschmutzung-luftschadstoffe-sterblichkeit?c=2191",
+          "id": 130967528,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung fordert jährlich 3,3 Mio. Tote - Smog, Ozon & Co. - Wissen - krone.at",
+          "url": "http://www.krone.at/Wissen/Luftverschmutzung_fordert_jaehrlich_3.3_Mio._Tote-Smog._Ozon_-_Co.-Story-472747",
+          "id": 32111424,
+          "score": 508640
+        },
+        {
+          "name": "Studie: Luftverschmutzung verkürzt Leben um zwei Jahre  -\r\n\tAuto-News -\r\n\tBild.de",
+          "url": "https://www.bild.de/auto/auto-news/auto-news/studie-luftverschmutzung-verkuerzt-leben-um-zwei-jahre-60623612.bild.html",
+          "id": 145073475,
+          "score": 2540009
+        },
+        {
+          "name": "Deutsche Umwelthilfe verklagt Düsseldorf wegen Luftverschmutzung",
+          "url": "http://www.rp-online.de/nrw/panorama/deutsche-umwelthilfe-verklagt-duesseldorf-wegen-luftverschmutzung-aid-1.5571950",
+          "id": 33800236,
+          "score": 37263
+        },
+        {
+          "name": "Jährlich sterben drei Millionen Menschen durch Feinstaub und Luftverschmutzung",
+          "url": "http://www.rp-online.de/leben/gesundheit/news/jaehrlich-sterben-drei-millionen-menschen-durch-feinstaub-und-luftverschmutzung-aid-1.5400997",
+          "id": 32045816,
+          "score": 0
+        },
+        {
+          "name": "Vor der Bayernwahl: CSU verliert in Umfrage weiter an Zustimmung  – die AfD auch - WELT",
+          "url": "https://www.welt.de/politik/deutschland/article181315484/Luftverschmutzung-Justiz-prueft-Beugehaft-fuer-Bayerns-Politiker.html",
+          "id": 134464396,
+          "score": 50315145
+        },
+        {
+          "name": "Sie wachen über Luftverschmutzung: London schickt Tauben auf Luftpatrouille",
+          "url": "http://www.focus.de/panorama/welt/sie-wachen-ueber-luftverschmutzung-london-schickt-tauben-auf-luftpatrouille_id_5364486.html",
+          "id": 0,
+          "score": 33408
+        },
+        {
+          "name": "Dieselgipfel in Berlin - 28 deutschen Städten drohen Fahrverbote - Wirtschaft - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/wirtschaft/luftverschmutzung-die-richter-im-nacken-1.3767588",
+          "id": 103989124,
+          "score": 38034432
+        },
+        {
+          "name": "Hendricks bei Umweltkommissar: Nur Versprechen reichen nicht mehr | tagesschau.de",
+          "url": "https://www.tagesschau.de/ausland/bruessel-luftverschmutzung-103.html",
+          "id": 110922265,
+          "score": 776688
+        },
+        {
+          "name": "Diesel-Abgase: Luftverschmutzung in deutschen Städten leicht zurückgegangen | ZEIT ONLINE",
+          "url": "http://www.zeit.de/wissen/umwelt/2018-02/diesel-abgase-luftverschmutzung-stickstoffdioxid-umweltbundesamt-muenchen",
+          "id": 111133936,
+          "score": 565056
+        },
+        {
+          "name": "Studie in Hongkong: Luftverschmutzung erhöht Krebsrisiko erheblich – HAZ – Hannoversche Allgemeine",
+          "url": "http://www.haz.de/Nachrichten/Wissen/Uebersicht/Studie-in-Hongkong-Luftverschmutzung-erhoeht-Krebsrisiko-erheblich",
+          "id": 39769095,
+          "score": 60542
+        },
+        {
+          "name": "Gegen die Luftverschmutzung: Paris will herkömmliche Autos  verbannen - Wirtschaft - Stuttgarter Nachrichten",
+          "url": "http://www.stuttgarter-nachrichten.de/inhalt.gegen-die-luftverschmutzung-paris-will-herkoemmliche-autos-verbannen.c81d0d20-9f11-4e68-b982-b0126ba90868.html",
+          "id": 99168814,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung: In 28 Städten in Deutschland drohen Fahrverbote - FOCUS Online",
+          "url": "http://www.focus.de/auto/news/dieselgipfel-in-berlin-luftverschmutzung-28-staedten-in-deutschland-drohen-fahrverbote_id_7905545.html",
+          "id": 103989138,
+          "score": 4701898
+        },
+        {
+          "name": "Luftverschmutzung: \"Die Grenzwerte würden nur strenger\" | ZEIT ONLINE",
+          "url": "https://www.zeit.de/mobilitaet/2019-02/luftverschmutzung-abgas-grenzwerte-karmenu-vella-eu-umweltkommissar",
+          "id": 142648380,
+          "score": 6334064
+        },
+        {
+          "name": "Muss Markus Söder ins Gefängnis? Justiz prüft Beugehaft wegen Luftverschmutzung  - FOCUS Online",
+          "url": "https://www.focus.de/regional/bayern/weil-zwangsgelder-nicht-wirken-muss-markus-soeder-ins-gefaengnis-justiz-prueft-beugehaft-wegen-luftverschmutzung_id_9477619.html",
+          "id": 134465527,
+          "score": 1732705
+        },
+        {
+          "name": "Luftverschmutzung: Müller fordert mehr Geld vom Bund - Wirtschaft-News - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/news/wirtschaft/auto---berlin-luftverschmutzung-mueller-fordert-mehr-geld-vom-bund-dpa.urn-newsml-dpa-com-20090101-170904-99-908564",
+          "id": 94860900,
+          "score": 0
+        },
+        {
+          "name": "DUH verklagt das Land Berlin wegen hoher Luftverschmutzung - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/auto/aktuell/duh-verklagt-das-land-berlin-wegen-hoher-luftverschmutzung-a-1096179.html",
+          "id": 44096209,
+          "score": 1342575
+        },
+        {
+          "name": "Studien: Weniger Dünger senkt Sterblichkeit durch Luftverschmutzung",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/studien-weniger-duenger-reduziert-sterblichkeit-durch-luftverschmutzung-20171029391450",
+          "id": 100889515,
+          "score": 26100
+        },
+        {
+          "name": "100 Milliarden Euro Gesundheitskosten durch Verkehr - Gesundheit - Süddeutsche.de",
+          "url": "https://www.sueddeutsche.de/gesundheit/deutschland-weltweit-luftverschmutzung-diesel-feinstaub-ozon-1.4346703",
+          "id": 144246920,
+          "score": 15565342
+        },
+        {
+          "name": "Vielbefahrene Straßen: Erhöht Luftverschmutzung das Alzheimer-Risiko?",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/vielbefahrene-strassen-erhoeht-luftverschmutzung-das-alzheimer-risiko-20180124398501",
+          "id": 110290615,
+          "score": 24180
+        },
+        {
+          "name": "Städte wegen Luftverschmutzung verklagt  | WAZ.de",
+          "url": "http://www.derwesten.de/wirtschaft/staedte-wegen-luftverschmutzung-verklagt-id11303685.html",
+          "id": 33803910,
+          "score": 0
+        },
+        {
+          "name": "Ambrosia-Pollen werden durch Luftverschmutzung noch aggressiver",
+          "url": "http://www.t-online.de/lifestyle/gesundheit/id_73983836/ambrosia-pollen-werden-durch-luftverschmutzung-noch-aggressiver.html",
+          "id": 31210479,
+          "score": 47640
+        },
+        {
+          "name": "Jährlich über drei Millionen Tote durch Luftverschmutzung - Echo Online",
+          "url": "http://www.echo-online.de/vermischtes/wissenschaft/jaehrlich-ueber-drei-millionen-tote-durch-luftverschmutzung_16152839.htm",
+          "id": 32111425,
+          "score": 0
+        },
+        {
+          "name": "Kindersterblichkeit: Dreck und Hygienemangel führt für Millionen Kinder zum Tod | ZEIT ONLINE",
+          "url": "http://www.zeit.de/gesellschaft/2017-03/who-kinder-tod-dreck-hygiene-luftverschmutzung",
+          "id": 75395498,
+          "score": 1471744
+        },
+        {
+          "name": "Gegen Luftverschmutzung: In London patrouillieren die Tauben",
+          "url": "http://www.tagesspiegel.de/weltspiegel/gegen-luftverschmutzung-in-london-patrouillieren-die-tauben/13332516.html",
+          "id": 0,
+          "score": 1118180
+        },
+        {
+          "name": "Luftverschmutzung: Peking ruft erneut höchste Smog-Alarmstufe aus",
+          "url": "http://www.faz.net/aktuell/gesellschaft/luftverschmutzung-peking-ruft-erneut-hoechste-smog-alarmstufe-aus-13972630.html",
+          "id": 34611373,
+          "score": 1003068
+        },
+        {
+          "name": "Luftverschmutzung in Stuttgart: Am Montag zum ersten Mal Feinstaubalarm | Baden-Württemberg | Nachrichten | SWR.de",
+          "url": "http://www.swr.de/landesschau-aktuell/bw/luftverschmutzung-in-stuttgart-am-montag-zum-ersten-mal-feinstaubalarm/-/id=1622/did=16803256/nid=1622/1o20q8o/",
+          "id": 35372144,
+          "score": 495535
+        },
+        {
+          "name": "Bürger stänkern gegen verpestete Luft  -\r\n\tStuttgart -\r\n\tBild.de",
+          "url": "http://www.bild.de/regional/stuttgart/luftverschmutzung/buerger-gegen-verpestete-luft-45546704.bild.html",
+          "id": 38417301,
+          "score": 0
+        },
+        {
+          "name": "WHO-Studie: Luftverschmutzung setzt vor allem den Kleinsten zu - FOCUS Online",
+          "url": "https://www.focus.de/gesundheit/news/toedlicher-qualm-luftverschmutzung-setzt-vor-allem-den-kleinsten-zu_id_9812775.html",
+          "id": 137685856,
+          "score": 1836501
+        },
+        {
+          "name": "Wegen Smog: China schließt tausende Fabriken - Politik - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/politik/luftverschmutzung-wegen-smog-china-schliesst-tausende-fabriken-1.2762300",
+          "id": 34128403,
+          "score": 715350
+        },
+        {
+          "name": "ÖPNV: Gratis mit Bus und Bahn? | ZEIT ONLINE",
+          "url": "http://www.zeit.de/2018/08/oepnv-verbesserung-luftverschmutzung-gratis-pro-contra",
+          "id": 112704409,
+          "score": 5099196
+        },
+        {
+          "name": "Luftverschmutzung in Gebäuden tötet jedes Jahr tausende Menschen",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-in-gebaeuden-toetet-jedes-jahr-tausende-menschen-2016022257330",
+          "id": 36486519,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung erhöht unser Risiko für Schlaganfälle massiv",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-erhoeht-unser-risiko-fuer-schlaganfaelle-massiv-2016061068593",
+          "id": 44669158,
+          "score": 0
+        },
+        {
+          "name": "London schickt Tauben auf Luftpatrouille",
+          "url": "http://www.faz.net/aktuell/wirtschaft/london-schickt-tauben-auf-luftpatrouille-mit-sensoren-ausgestattete-voegel-messen-luftverschmutzung-14129520.html",
+          "id": 0,
+          "score": 565040
+        },
+        {
+          "name": "Forschungsprojekt gestartet: Erhöht die Luftverschmutzung das Alzheimer-Risiko?",
+          "url": "http://www.finanznachrichten.de/nachrichten-2018-01/42821221-forschungsprojekt-gestartet-erhoeht-die-luftverschmutzung-das-alzheimer-risiko-007.htm",
+          "id": 110290616,
+          "score": 13890
+        },
+        {
+          "name": "Luftverschmutzung: China erhebt Sondersteuer auf Luxusautos | ZEIT ONLINE",
+          "url": "http://www.zeit.de/wirtschaft/2016-12/luftverschmutzung-china-steuer-luxusautos-autobauer",
+          "id": 66122488,
+          "score": 262926
+        },
+        {
+          "name": "Luftverschmutzung - EU-Kommission erhöht Druck auf Deutschland",
+          "url": "http://www.deutschlandfunk.de/luftverschmutzung-eu-kommission-erhoeht-druck-auf.1939.de.html?drn:news_id=840103",
+          "id": 109478155,
+          "score": 38088
+        },
+        {
+          "name": "Luftverschmutzung: In diesen Städten leitet die DUH Verfahren ein - SPIEGEL ONLINE",
+          "url": "http://www.spiegel.de/auto/aktuell/luftverschmutzung-in-diesen-staedten-leitet-die-duh-verfahren-ein-a-1164368.html",
+          "id": 93703753,
+          "score": 11602109
+        },
+        {
+          "name": "Luftverschmutzung ist größte Gesundheitsgefahr in Europa",
+          "url": "https://www.t-online.de/gesundheit/krankheiten-symptome/id_84691104/luftverschmutzung-ist-groesste-gesundheitsgefahr-in-europa.html",
+          "id": 137665970,
+          "score": 306867
+        },
+        {
+          "name": "Luftverschmutzung in deutschen Städten durch Diesel-Abgase gesunken",
+          "url": "http://www.t-online.de/auto/elektromobilitaet/id_83152766/luftverschmutzung-in-deutschen-staedten-durch-diesel-abgase-gesunken.html",
+          "id": 111144942,
+          "score": 39675
+        },
+        {
+          "name": "Prozess in Stuttgart: Gericht urteilt pro Diesel-Fahrverbot | tagesschau.de",
+          "url": "http://www.tagesschau.de/inland/stuttgart-luftverschmutzung-101.html",
+          "id": 90693320,
+          "score": 5229566
+        },
+        {
+          "name": "Ambrosia-Pollen werden durch Luftverschmutzung noch allergener",
+          "url": "http://www.t-online.de/lifestyle/gesundheit/id_73983836/ambrosia-pollen-werden-durch-luftverschmutzung-noch-allergener.html",
+          "id": 31209897,
+          "score": 13008
+        },
+        {
+          "name": "Luftverschmutzung: Es hapert auch bei Software-Updates von Dieselmotoren",
+          "url": "http://www.handelsblatt.com/politik/deutschland/luftverschmutzung-es-hapert-auch-bei-software-updates-von-dieselmotoren/20969964-2.html",
+          "id": 112926634,
+          "score": 0
+        },
+        {
+          "name": "EU rügt Luftverschmutzung in Deutschland | Startseite | SWR Aktuell | SWR.de",
+          "url": "http://www.swr.de/swraktuell/eu-ruegt-luftverschmutzung-in-deutschland/-/id=396/did=19020508/nid=396/lipc67/",
+          "id": 73317732,
+          "score": 0
+        },
+        {
+          "name": "Neue Studie: 43.000 Tote wegen schmutziger Luft | BR24",
+          "url": "https://www.br.de/nachrichten/deutschland-welt/abgasdiskussion-neue-studie-zu-folgen-der-luftverschmutzung,RJCptNk",
+          "id": 144250612,
+          "score": 6053058
+        },
+        {
+          "name": "Luftverschmutzung: EU-Kommission rügt Deutschland  - Politik - nordbayern.de",
+          "url": "http://www.nordbayern.de/politik/luftverschmutzung-eu-kommission-rugt-deutschland-1.5820570",
+          "id": 73330277,
+          "score": 0
+        },
+        {
+          "name": "Wissenschaft - Luftverschmutzung: Jährlich mehr als drei Millionen Tote - Aktuelle Nachrichten  - Hamburger Abendblatt",
+          "url": "http://www.abendblatt.de/article205739109/Luftverschmutzung-Jaehrlich-mehr-als-drei-Millionen-Tote.html",
+          "id": 32049076,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung verursacht jährlich Millionen Typ-II-Diabetes-Fälle",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/luftverschmutzung-fuehrt-jaehrlich-zu-millionen-neuen-typ-ii-diabetes-faelle-20180701415193",
+          "id": 131391485,
+          "score": 5848
+        },
+        {
+          "name": "Jährlich über drei Millionen Tote durch Luftverschmutzung - Wissen-News - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/news/wissen/wissenschaft-jaehrlich-ueber-drei-millionen-tote-durch-luftverschmutzung-dpa.urn-newsml-dpa-com-20090101-150916-99-05316",
+          "id": 32028326,
+          "score": 0
+        },
+        {
+          "name": "Feinstaub: \r\n\t\t\t    Smog-Studie: Luftverschmutzung erhöht Krebsrisiko deutlich - Wissenschaft - Augsburger Allgemeine",
+          "url": "http://www.augsburger-allgemeine.de/wissenschaft/Smog-Studie-Luftverschmutzung-erhoeht-Krebsrisiko-deutlich-id37694657.html",
+          "id": 39793229,
+          "score": 0
+        },
+        {
+          "name": "EU-Kommission lädt Bundesumweltministerin wegen Luftverschmutzung zum Gespräch",
+          "url": "http://www.donaukurier.de/nachrichten/auto/EU-Kommission-laedt-Bundesumweltministerin-wegen-Luftverschmutzung-zum-Gespraech;art59,3654479",
+          "id": 109488121,
+          "score": 0
+        },
+        {
+          "name": "Alarmierender Unicef-Bericht | 300 Millionen Kinder leben in extremer Luftverschmutzung  -\r\n\tKind & Familie -\r\n\tBild.de",
+          "url": "http://www.bild.de/ratgeber/kind-familie/unicef/unicef-300-millionen-kinder-leben-in-extremer-luftverschmutzung-48532820.bild.html",
+          "id": 62970865,
+          "score": 5124
+        },
+        {
+          "name": "Luftverschmutzung: Justiz prüft Beugehaft - WELT",
+          "url": "https://www.welt.de/regionales/bayern/article181316138/Luftverschmutzung-Justiz-prueft-Beugehaft.html",
+          "id": 134475820,
+          "score": 11730
+        },
+        {
+          "name": "Unicef: Pro Jahr sterben fast Hundertausende Kinder durch Luftverschmutzung",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/unicef-pro-jahr-sterben-hunderttausende-kinder-durch-luftverschmutzung-20161031208004",
+          "id": 62953498,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung - Richter vertagen Urteil über Fahrverbote - Politik - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/politik/luftverschmutzung-richter-vertagen-urteil-ueber-fahrverbote-1.3878335",
+          "id": 113619798,
+          "score": 0
+        },
+        {
+          "name": "Umweltbundesamt: Weniger Luftverschmutzung durch Diesel-Abgase |\n    heise online",
+          "url": "https://www.heise.de/newsticker/meldung/Umweltbundesamt-Weniger-Luftverschmutzung-durch-Diesel-Abgase-3957729.html",
+          "id": 111143483,
+          "score": 40964
+        },
+        {
+          "name": "Drei Millionen Menschen sterben jährlich durch Luftverschmutzung",
+          "url": "http://www.rp-online.de/leben/gesundheit/news/drei-millionen-menschen-sterben-jaehrlich-durch-luftverschmutzung-aid-1.5400997",
+          "id": 32047341,
+          "score": 1566
+        },
+        {
+          "name": "Abgasskandal: Bundesrat fordert Nachrüstung für Dieselautos | ZEIT ONLINE",
+          "url": "https://www.zeit.de/mobilitaet/2018-10/abgasskandal-bundesrat-nachruestung-fahrverbot-autoindustrie-luftverschmutzung",
+          "id": 137196018,
+          "score": 7610
+        },
+        {
+          "name": "Luftverschmutzung: London schickt Tauben auf Patrouille",
+          "url": "http://www.handelsblatt.com/panorama/aus-aller-welt/luftverschmutzung-london-schickt-tauben-auf-patrouille/13332584.html",
+          "id": 0,
+          "score": 20280
+        },
+        {
+          "name": "China untersagt Produktion von Spritfressern - autohaus.de",
+          "url": "https://www.autohaus.de/nachrichten/luftverschmutzung-china-untersagt-produktion-von-spritfressern-2050188.html",
+          "id": 107826401,
+          "score": 0
+        },
+        {
+          "name": "Studie: Pro Jahr sterben fast Hundertausende Kinder durch Luftverschmutzung",
+          "url": "http://www.heilpraxisnet.de/naturheilpraxis/studie-pro-jahr-sterben-hunderttausende-kinder-durch-luftverschmutzung-20161031208004",
+          "id": 62955684,
+          "score": 0
+        },
+        {
+          "name": "Luftverschmutzung erhöht Krebsrisiko erheblich - Traunsteiner Tagblatt - Das Nachrichtenportal im Landkreis Traunstein und Berchtesgadener Land - Traunsteiner Tagblatt",
+          "url": "http://www.traunsteiner-tagblatt.de/home_artikel,-Luftverschmutzung-erhoeht-Krebsrisiko-erheblich-_arid,271018.html",
+          "id": 39968454,
+          "score": 0
+        },
+        {
+          "name": "600.000 Kinder sterben jährlich an Folgen von Luftverschmutzung",
+          "url": "http://de.euronews.com/2016/10/31/600000-kinder-sterben-jaehrlich-an-folgen-von-luftverschmutzung",
+          "id": 62990355,
+          "score": 5232
+        }
+      ]
+    },
+    {
+      "categ": "Wasserverschmutzung",
+      "list": [
+        {
+          "name": "Wasserverschmutzung bedroht Bauern",
+          "url": "https://www.schweizerbauer.ch/politik--wirtschaft/international/wasserverschmutzung-bedroht-bauern-28261.html",
+          "id": 0,
+          "score": 351600
+        }
+      ]
+    },
+    {
+      "categ": "Abfall",
+      "list": [
+        {
+          "name": "Neue Abfall-Regeln: Dieser Müll darf ab  Mittwoch nicht mehr in die schwarze Tonne - Region -  derwesten.de",
+          "url": "https://www.derwesten.de/region/abfall-schrott-elektro-verbraucherzentrale-hausmuell-id215085741.html",
+          "id": 133797517,
+          "score": 47994100
+        },
+        {
+          "name": "Abfall: Kaffeekapseln und „to go“: Immer mehr Verpackungen im Müll - Deutschland - FOCUS Online - Nachrichten",
+          "url": "http://www.focus.de/politik/deutschland/abfall-mehr-verpackungen-landen-auf-dem-muell_id_5017586.html",
+          "id": 32826267,
+          "score": 602147
+        },
+        {
+          "name": "Verpackungen landen im Müll: Immer mehr Abfall in Deutschland",
+          "url": "http://www.t-online.de/nachrichten/deutschland/id_75793584/verpackungen-landen-im-muell-immer-mehr-abfall-in-deutschland.html",
+          "id": 32841906,
+          "score": 0
+        },
+        {
+          "name": "Abfall: Kaffeekapseln und \"to go\": Immer mehr Verpackungen im Müll | ZEIT ONLINE",
+          "url": "http://www.zeit.de/news/2015-10/16/abfall-mehr-verpackungen-landen-auf-dem-muell-16104803",
+          "id": 32826268,
+          "score": 0
+        },
+        {
+          "name": "Schwindel nach Aufstehen: \r\n\t\t\t    Plötzlicher Abfall von Blutdruck: Steigt dann das Demenz-Risiko? - Wissenschaft - Augsburger Allgemeine",
+          "url": "http://www.augsburger-allgemeine.de/wissenschaft/Ploetzlicher-Abfall-von-Blutdruck-Steigt-dann-das-Demenz-Risiko-id39355537.html",
+          "id": 61293715,
+          "score": 0
+        },
+        {
+          "name": "Überwintern auf der Müllkippe: Störche machen im Abfall Halt - Wissen-News - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/news/wissen/wissenschaft-ueberwintern-auf-der-muellkippe-stoerche-machen-im-abfall-halt-dpa.urn-newsml-dpa-com-20090101-160122-99-131851",
+          "id": 35548048,
+          "score": 0
+        },
+        {
+          "name": "26.09.2016: Müllsammelschiff »Seekuh« soll Weltmeere von Abfall befreien (neues-deutschland.de)",
+          "url": "https://www.neues-deutschland.de/artikel/1026656.muellsammelschiff-seekuh-soll-weltmeere-von-abfall-befreien.html",
+          "id": 59432552,
+          "score": 351000
+        },
+        {
+          "name": "Entsorgt Sachsen illegal giftige Kraftwerksabfälle? | MDR.DE",
+          "url": "http://www.mdr.de/nachrichten/politik/regional/abfall-braunkohlekraftwerke-100.html",
+          "id": 52901407,
+          "score": 316400
+        },
+        {
+          "name": "Abfall: Mülleimer-Kugeln namens „Bubble“ schlucken nun Berliner Abfall - Berlin - FOCUS Online - Nachrichten",
+          "url": "http://www.focus.de/regional/berlin/abfall-muelleimer-kugeln-namens-bubble-schlucken-nun-berliner-abfall_id_4880423.html",
+          "id": 31145427,
+          "score": 0
+        },
+        {
+          "name": "Um uns kreisen flinke Handgranaten",
+          "url": "http://www.saarbruecker-zeitung.de/panorama/sz-panorama/KOeLN-Abfall-Muell-und-Entsorgung-Recycling-Experten-Gefahr-Risiko-und-Warnung-Raumfahrt-Raumstationen-Satelliten-Weltraummuell;art449431,6428471",
+          "id": 79906417,
+          "score": 0
+        },
+        {
+          "name": "Erfolgreicher Waldputz in den Müggelbergen: BSR sammelte rund 300 Kubikmeter Abfall - Köpenick - berliner-woche.de",
+          "url": "http://www.berliner-woche.de/koepenick/wirtschaft/erfolgreicher-waldputz-in-den-mueggelbergen-bsr-sammelte-rund-300-kubikmeter-abfall-d106756.html",
+          "id": 54445559,
+          "score": 0
+        },
+        {
+          "name": "Kaffeekapseln und «to go»: Immer mehr Verpackungen im Müll - Wissen-News - Süddeutsche.de",
+          "url": "http://www.sueddeutsche.de/news/wissen/abfall-mehr-verpackungen-landen-auf-dem-muell-dpa.urn-newsml-dpa-com-20090101-151016-99-01801",
+          "id": 32826415,
+          "score": 0
+        },
+        {
+          "name": "Wissenschaft: Überwintern auf der Müllkippe: Störche machen im Abfall Halt - FOCUS Online",
+          "url": "http://www.focus.de/wissen/diverses/wissenschaft-ueberwintern-auf-der-muellkippe-stoerche-machen-im-abfall-halt_id_5231975.html",
+          "id": 35548466,
+          "score": 0
+        },
+        {
+          "name": "SZ-Online: Grüne: Sachsen erlaubt Braunkohlefirmen billige Abfall-„Deponierung“",
+          "url": "http://www.sz-online.de/sachsen/gruene-sachsen-erlaubt-braunkohlefirmen-billige-abfall-deponierung-3457787.html",
+          "id": 52896465,
+          "score": 840
+        }
+      ]
+    }
+  ],
+  "negArticles": [
+    [
+      {
+        "url": "http://www.zeit.de/mobilitaet/2018-02/luftverschmutzung-kostenloser-nahverkehr-bundesergierung"
+      },
+      {
+        "url": "http://www.zeit.de/mobilitaet/2018-03/dieselmotor-luftverschmutzung-diesel-fahrverbot-abgas-e-motor-hardware"
+      },
+      {
+        "url": "https://www.zeit.de/2019/10/feinstaub-diesel-icct-gesundheitsgefahr-luftverschmutzung-stickoxid"
+      },
+      {
+        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2019-02/studie-luftverschmutzung-todesfaelle-abgase-verkehr"
+      },
+      {
+        "url": "https://www.sueddeutsche.de/gesundheit/luftverschmutzung-schadstoffe-todesfaelle-1.4364271"
+      },
+      {
+        "url": "http://www.sueddeutsche.de/wirtschaft/luftverschmutzung-bundesweit-erste-diesel-fahrverbote-in-hamburg-ab-mai-1.3989689"
+      },
+      {
+        "url": "http://www.spiegel.de/wissenschaft/mensch/luftverschmutzung-drei-millionen-menschen-sterben-jaehrlich-an-feinstaub-a-1053241.html"
+      },
+      {
+        "url": "https://www.zeit.de/wissen/gesundheit/2019-01/luftqualitaet-luftverschmutzung-grenzwerte-stickoxide-feinstaub"
+      },
+      {
+        "url": "http://www.faz.net/aktuell/wissen/klima/feinstaub-immer-mehr-tote-durch-luftverschmutzung-13806381.html"
+      },
+      {
+        "url": "https://www.welt.de/politik/deutschland/article181315484/Luftverschmutzung-Justiz-prueft-Beugehaft-fuer-Bayerns-Politiker.html"
+      },
+      {
+        "url": "http://www.sueddeutsche.de/wissen/luftverschmutzung-toedliche-kohle-glocke-ueber-europa-1.3063507"
+      },
+      {
+        "url": "http://www.handelsblatt.com/unternehmen/industrie/luftverschmutzung-hamburg-setzt-als-erste-grossstadt-dieselfahrverbote-durch/22571884.html"
+      },
+      {
+        "url": "http://www.spiegel.de/gesundheit/diagnose/luftverschmutzung-ist-groesste-gefahr-fuer-die-gesundheit-eea-report-a-1235602.html"
+      }
+    ],
+    [],
+    [
+      {
+        "url": "https://www.neues-deutschland.de/artikel/1026656.muellsammelschiff-seekuh-soll-weltmeere-von-abfall-befreien.html"
+      },
+      {
+        "url": "http://www.sz-online.de/sachsen/gruene-sachsen-erlaubt-braunkohlefirmen-billige-abfall-deponierung-3457787.html"
+      },
+      {
+        "url": "http://www.sueddeutsche.de/news/wissen/wissenschaft-ueberwintern-auf-der-muellkippe-stoerche-machen-im-abfall-halt-dpa.urn-newsml-dpa-com-20090101-160122-99-131851"
+      },
+      {
+        "url": "http://www.saarbruecker-zeitung.de/panorama/sz-panorama/KOeLN-Abfall-Muell-und-Entsorgung-Recycling-Experten-Gefahr-Risiko-und-Warnung-Raumfahrt-Raumstationen-Satelliten-Weltraummuell;art449431,6428471"
+      },
+      {
+        "url": "http://www.berliner-woche.de/koepenick/wirtschaft/erfolgreicher-waldputz-in-den-mueggelbergen-bsr-sammelte-rund-300-kubikmeter-abfall-d106756.html"
+      },
+      {
+        "url": "http://www.focus.de/wissen/diverses/wissenschaft-ueberwintern-auf-der-muellkippe-stoerche-machen-im-abfall-halt_id_5231975.html"
+      }
+    ],
+    []
+  ],
+  "negTopics": [
+    [
+      "227",
+      "Philipp Langen"
+    ],
+    [
+      "226",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "225",
+      "GPS"
+    ],
+    [
+      "224",
+      "Im Juli"
+    ],
+    [
+      "223",
+      "Darfur"
+    ],
+    [
+      "222",
+      "Müggelberge"
+    ],
+    [
+      "221",
+      "Erich Hof"
+    ],
+    [
+      "220",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "219",
+      "Schmutz"
+    ],
+    [
+      "218",
+      "Müggelberge"
+    ],
+    [
+      "217",
+      "Hof"
+    ],
+    [
+      "216",
+      "Multicar"
+    ],
+    [
+      "215",
+      "Köpenick"
+    ],
+    [
+      "214",
+      "Ottensen"
+    ],
+    [
+      "213",
+      "Quarter"
+    ],
+    [
+      "212",
+      "Tabu"
+    ],
+    [
+      "211",
+      "Fasching"
+    ],
+    [
+      "210",
+      "Philipp Langen"
+    ],
+    [
+      "209",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "208",
+      "GPS"
+    ],
+    [
+      "207",
+      "Bergrecht"
+    ],
+    [
+      "206",
+      "Freiberg"
+    ],
+    [
+      "205",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "204",
+      "Kippen"
+    ],
+    [
+      "203",
+      "Oder"
+    ],
+    [
+      "202",
+      "Saxony"
+    ],
+    [
+      "201",
+      "Alliance '90/The Greens"
+    ],
+    [
+      "200",
+      "Dresden"
+    ],
+    [
+      "199",
+      "Landtag"
+    ],
+    [
+      "198",
+      "Leipzig"
+    ],
+    [
+      "197",
+      "Prosecutors Office"
+    ],
+    [
+      "196",
+      "Saxony"
+    ],
+    [
+      "195",
+      "Alliance '90/The Greens"
+    ],
+    [
+      "194",
+      "Dresden"
+    ],
+    [
+      "193",
+      "Auch"
+    ],
+    [
+      "192",
+      "Fischen"
+    ],
+    [
+      "191",
+      "Kiel"
+    ],
+    [
+      "190",
+      "Germania"
+    ],
+    [
+      "189",
+      "Neues Deutschland"
+    ],
+    [
+      "188",
+      "The Lancet"
+    ],
+    [
+      "187",
+      "Luke Boden"
+    ],
+    [
+      "186",
+      "Hans Bruyninckx"
+    ],
+    [
+      "185",
+      "European Environment Agency"
+    ],
+    [
+      "184",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "183",
+      "Hervor"
+    ],
+    [
+      "182",
+      "European Economic Area"
+    ],
+    [
+      "181",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "180",
+      "Hamburg"
+    ],
+    [
+      "179",
+      "European Union"
+    ],
+    [
+      "178",
+      "European Economic Area"
+    ],
+    [
+      "177",
+      "European Union"
+    ],
+    [
+      "176",
+      "Nationen"
+    ],
+    [
+      "175",
+      "United Nations Environment Programme"
+    ],
+    [
+      "174",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "173",
+      "European Union"
+    ],
+    [
+      "172",
+      "World Wildlife Fund"
+    ],
+    [
+      "171",
+      "Regen"
+    ],
+    [
+      "170",
+      "Konne"
+    ],
+    [
+      "169",
+      "Czech Republic"
+    ],
+    [
+      "168",
+      "Leipzig"
+    ],
+    [
+      "167",
+      "Helmholtz Centre for Environmental Research"
+    ],
+    [
+      "166",
+      "North Rhine-Westphalia"
+    ],
+    [
+      "165",
+      "Niederaußem"
+    ],
+    [
+      "164",
+      "RWE"
+    ],
+    [
+      "163",
+      "Brandenburg"
+    ],
+    [
+      "162",
+      "Jänschwalde"
+    ],
+    [
+      "161",
+      "Vattenfall"
+    ],
+    [
+      "160",
+      "Łódź"
+    ],
+    [
+      "159",
+      "Nahe"
+    ],
+    [
+      "158",
+      "Bełchatów"
+    ],
+    [
+      "157",
+      "Kraftwerk"
+    ],
+    [
+      "156",
+      "Daher"
+    ],
+    [
+      "155",
+      "European Union"
+    ],
+    [
+      "154",
+      "European Union"
+    ],
+    [
+      "153",
+      "World Wildlife Fund"
+    ],
+    [
+      "151",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "149",
+      "Nun"
+    ],
+    [
+      "148",
+      "Darfur"
+    ],
+    [
+      "147",
+      "Hatten"
+    ],
+    [
+      "146",
+      "Cologne"
+    ],
+    [
+      "144",
+      "Munich"
+    ],
+    [
+      "143",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "142",
+      "Landtag"
+    ],
+    [
+      "141",
+      "CSU"
+    ],
+    [
+      "140",
+      "Punkte"
+    ],
+    [
+      "139",
+      "Die PARTEI"
+    ],
+    [
+      "138",
+      "Augsburger Allgemeine"
+    ],
+    [
+      "137",
+      "CSU"
+    ],
+    [
+      "136",
+      "CSU"
+    ],
+    [
+      "135",
+      "CSU"
+    ],
+    [
+      "134",
+      "Alternative for Germany"
+    ],
+    [
+      "133",
+      "CSU"
+    ],
+    [
+      "132",
+      "Steigen"
+    ],
+    [
+      "131",
+      "Hervor"
+    ],
+    [
+      "130",
+      "Oder"
+    ],
+    [
+      "129",
+      "Japan"
+    ],
+    [
+      "128",
+      "Buda"
+    ],
+    [
+      "127",
+      "Smog"
+    ],
+    [
+      "126",
+      "Mainz"
+    ],
+    [
+      "125",
+      "Mars Polar Lander"
+    ],
+    [
+      "124",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "123",
+      "Mitte"
+    ],
+    [
+      "121",
+      "Beijing"
+    ],
+    [
+      "120",
+      "Shanghai"
+    ],
+    [
+      "119",
+      "Beijing"
+    ],
+    [
+      "118",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "116",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "115",
+      "Das Argument"
+    ],
+    [
+      "114",
+      "Oder"
+    ],
+    [
+      "112",
+      "Horst Köhler"
+    ],
+    [
+      "111",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "110",
+      "Theme"
+    ],
+    [
+      "109",
+      "CSU"
+    ],
+    [
+      "108",
+      "Andreas Scheuer"
+    ],
+    [
+      "107",
+      "Waren"
+    ],
+    [
+      "106",
+      "Woman Doctors"
+    ],
+    [
+      "105",
+      "NOx"
+    ],
+    [
+      "104",
+      "Ard"
+    ],
+    [
+      "103",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "102",
+      "European Union"
+    ],
+    [
+      "101",
+      "Gebe"
+    ],
+    [
+      "100",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "99",
+      "AIDS"
+    ],
+    [
+      "98",
+      "Waren"
+    ],
+    [
+      "96",
+      "Johann Nopel der Ältere"
+    ],
+    [
+      "95",
+      "Hamburg"
+    ],
+    [
+      "94",
+      "Hamburg"
+    ],
+    [
+      "93",
+      "Proceedings of the National Academy of Sciences"
+    ],
+    [
+      "92",
+      "Leiden"
+    ],
+    [
+      "91",
+      "Partikel"
+    ],
+    [
+      "90",
+      "Waren"
+    ],
+    [
+      "89",
+      "European Union"
+    ],
+    [
+      "88",
+      "Kanada"
+    ],
+    [
+      "87",
+      "Auch"
+    ],
+    [
+      "86",
+      "European Union"
+    ],
+    [
+      "85",
+      "Partikel"
+    ],
+    [
+      "84",
+      "Particulate matter"
+    ],
+    [
+      "83",
+      "Fuel injection"
+    ],
+    [
+      "82",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "81",
+      "Partikel"
+    ],
+    [
+      "80",
+      "Particulate matter"
+    ],
+    [
+      "79",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "78",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "77",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "76",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "75",
+      "European Heart Journal"
+    ],
+    [
+      "74",
+      "Max Planck"
+    ],
+    [
+      "73",
+      "Mainz"
+    ],
+    [
+      "72",
+      "Die Aktuelle"
+    ],
+    [
+      "71",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "70",
+      "Darfur"
+    ],
+    [
+      "69",
+      "Hervor"
+    ],
+    [
+      "68",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "67",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "66",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "65",
+      "International Criminal Court"
+    ],
+    [
+      "64",
+      "Darfur"
+    ],
+    [
+      "63",
+      "International Criminal Court"
+    ],
+    [
+      "62",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "61",
+      "Harold A. Zahl"
+    ],
+    [
+      "60",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "59",
+      "International Criminal Court"
+    ],
+    [
+      "58",
+      "Kiev"
+    ],
+    [
+      "57",
+      "Turin"
+    ],
+    [
+      "56",
+      "Berlin"
+    ],
+    [
+      "55",
+      "Cologne"
+    ],
+    [
+      "53",
+      "Auch"
+    ],
+    [
+      "51",
+      "Hatten"
+    ],
+    [
+      "50",
+      "International Criminal Court"
+    ],
+    [
+      "49",
+      "University of Colorado at Boulder"
+    ],
+    [
+      "48",
+      "University of Colorado at Boulder"
+    ],
+    [
+      "47",
+      "George Washington University"
+    ],
+    [
+      "46",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "45",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "44",
+      "Nun"
+    ],
+    [
+      "43",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "42",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "41",
+      "International Council on Clean Transportation"
+    ],
+    [
+      "40",
+      "University of Michigan"
+    ],
+    [
+      "39",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "36",
+      "Μm"
+    ],
+    [
+      "35",
+      "NOx"
+    ],
+    [
+      "34",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "33",
+      "Euro 5"
+    ],
+    [
+      "32",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "31",
+      "Volkswagen"
+    ],
+    [
+      "30",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "29",
+      "NOx"
+    ],
+    [
+      "28",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "27",
+      "Nein"
+    ],
+    [
+      "26",
+      "Thomas Koch"
+    ],
+    [
+      "25",
+      "National Intelligence Organization"
+    ],
+    [
+      "24",
+      "SPD"
+    ],
+    [
+      "23",
+      "Hatten"
+    ],
+    [
+      "22",
+      "European Union"
+    ],
+    [
+      "21",
+      "CDU"
+    ],
+    [
+      "20",
+      "Peter Altmaier"
+    ],
+    [
+      "19",
+      "CSU"
+    ],
+    [
+      "18",
+      "Christian Schmidt"
+    ],
+    [
+      "17",
+      "SPD"
+    ],
+    [
+      "16",
+      "Barbara Hendricks"
+    ],
+    [
+      "15",
+      "Cabinet of Germany"
+    ],
+    [
+      "14",
+      "Germany"
+    ],
+    [
+      "13",
+      "Mannheim"
+    ],
+    [
+      "12",
+      "Reutlingen"
+    ],
+    [
+      "11",
+      "Herrenberg"
+    ],
+    [
+      "10",
+      "Essen"
+    ],
+    [
+      "9",
+      "Bonn"
+    ],
+    [
+      "8",
+      "Politico"
+    ],
+    [
+      "7",
+      "Tages-Anzeiger"
+    ],
+    [
+      "6",
+      "Zuerst!"
+    ],
+    [
+      "4",
+      "German Chancellery"
+    ],
+    [
+      "3",
+      "Karmenu Vella"
+    ],
+    [
+      "2",
+      "European Union"
+    ],
+    [
+      "1",
+      "Cabinet of Germany"
+    ],
+    [
+      "0",
+      "Bund für Umwelt und Naturschutz Deutschland"
+    ]
+  ]
+}

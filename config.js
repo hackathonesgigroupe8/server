@@ -9,7 +9,7 @@ module.exports = {
         apiKey: "9ea16bdd81fd42f2aaaa6c640f1ababd"
     },
     dandelion: {
-        apiKey: "29b92d1f418847c5863937fd4477f77e"
+        apiKey: "94f81e4bb40b4088934e7711beb163f7"
     },
     port: 8060,
     datasets: ['eea_ip_2018']

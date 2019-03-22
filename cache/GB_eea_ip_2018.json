@@ -1,0 +1,41 @@
+{
+  "id": "GB_eea_ip_2018",
+  "notation": -0.2,
+  "nbArticles": 23,
+  "specializedRepresentation": null,
+  "generalistRepresentation": null,
+  "topicsInMedia": [],
+  "topicsRepresentation": [
+    "Air pollution",
+    "Water pollution",
+    "Waste",
+    "Dangerous waste"
+  ],
+  "negativeQuotedEnterprises": [],
+  "positiveQuotedEnterprises": [],
+  "articles": [
+    {
+      "categ": "Air pollution",
+      "list": []
+    },
+    {
+      "categ": "Water pollution",
+      "list": []
+    },
+    {
+      "categ": "Waste",
+      "list": []
+    },
+    {
+      "categ": "Dangerous waste",
+      "list": []
+    }
+  ],
+  "negArticles": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "negTopics": []
+}
